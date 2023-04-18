@@ -1,0 +1,29 @@
+{
+  "name": "puppeteer-starter-kata",
+  "version": "1.0.0",
+  "description": "This is a project to practice, learn and understand puppeteer ❎ 🤖 to work with automatic tests 🧪",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zearkiatos/puppeteer-starter-kata.git"
+  },
+  "keywords": [
+    "Test",
+    "Puppeteer",
+    "nodejs",
+    "automatization",
+    "automatic"
+  ],
+  "author": "Pedro Capriles <caprilespe@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zearkiatos/puppeteer-starter-kata/issues"
+  },
+  "homepage": "https://github.com/zearkiatos/puppeteer-starter-kata#readme",
+  "dependencies": {
+    "puppeteer": "^19.9.1"
+  }
+}
